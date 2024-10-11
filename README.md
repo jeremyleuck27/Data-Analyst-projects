@@ -1,0 +1,1 @@
+Here I have created two SQL files where I have used a data set based on layoffs for the past few years, cleaned the data set, and the explored the data with different queries to extract, filter, and rank the data that I chose to find. 
