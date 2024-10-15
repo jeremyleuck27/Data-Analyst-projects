@@ -1,1 +1,1 @@
-Here I have created two SQL files where I have used a data set based on layoffs for the past few years, cleaned the data set, and the explored the data with different queries to extract, filter, and rank the data that I chose to find. 
+In this repository I have projects to represent my skills using both MySQL and Excel at high levels to clean data, explore with queries, and display my findings with the use of a professional dashboard.
